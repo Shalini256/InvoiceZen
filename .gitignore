@@ -1,3 +1,22 @@
+# IDE folders
+.vscode/
+.idea/
+
+# Zip archives
+*.zip
+
+# Maven target folder
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Environment files
 .env
-node_modules/
-target/
